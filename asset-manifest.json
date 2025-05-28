@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meica-expo-sample/static/css/main.68a9b565.css",
+    "main.js": "/meica-expo-sample/static/js/main.0e9171e2.js",
+    "static/js/453.6646f2b7.chunk.js": "/meica-expo-sample/static/js/453.6646f2b7.chunk.js",
+    "index.html": "/meica-expo-sample/index.html",
+    "main.68a9b565.css.map": "/meica-expo-sample/static/css/main.68a9b565.css.map",
+    "main.0e9171e2.js.map": "/meica-expo-sample/static/js/main.0e9171e2.js.map",
+    "453.6646f2b7.chunk.js.map": "/meica-expo-sample/static/js/453.6646f2b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68a9b565.css",
+    "static/js/main.0e9171e2.js"
+  ]
+}
